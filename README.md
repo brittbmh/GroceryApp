@@ -1,4 +1,6 @@
-Untitle Grocery App
+# Untitled Grocery App
+
+This application will allow you to store your favorite brands and specific types of items you prefer. This will help you, or another member of your household, purchase the right item at the store. The website will be mobile-friendly.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
