@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { AwesomeButton } from "react-awesome-button";
-import "react-awesome-button/dist/styles.css";
 
 
 class LoginPage extends Component {
@@ -9,7 +7,6 @@ class LoginPage extends Component {
         username: '',
         password: '',
     };
-
 
     login = (event) => {
         event.preventDefault();

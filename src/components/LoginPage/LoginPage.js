@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { AwesomeButton } from "react-awesome-button";
-import "react-awesome-button/dist/styles.css";
 
 
 class LoginPage extends Component {
@@ -68,13 +66,12 @@ class LoginPage extends Component {
                         </label>
                     </div>
                     <div>
-                        <AwesomeButton type="primary">Login</AwesomeButton>
-                        {/* <input
-              className="log-in"
-              type="submit"
-              name="submit"
-              value="Log In"
-            /> */}
+                        <input
+                            className="log-in"
+                            type="submit"
+                            name="submit"
+                            value="Log In"
+                        />
                     </div>
                 </form>
                 <center>
