@@ -1,6 +1,7 @@
 body {
     font-family: 'roboto', sans-serif;
     margin: 0px 15px;
+    background-image: url(../../assets/images/aisle-beverages.jpg);
 }
 
 .alert {
